@@ -39,11 +39,17 @@ export default defineConfig({
             link: '/reference/statements/',
             items: [
               { text: 'CREATE', link: '/reference/statements/create' },
-              { text: 'IMPORT', link: '/reference/statements/import' },
-              { text: 'REGISTER VIEW', link: '/reference/statements/register-view' },
+              { text: 'DEFINE', link: '/reference/statements/define' },
               { text: 'REPLACE', link: '/reference/statements/replace' },
               { text: 'SELECT', link: '/reference/statements/select' },
               { text: 'SUBSCRIBE', link: '/reference/statements/subscribe' },
+            ],
+          },
+          {
+            text: 'Functions',
+            link: '/reference/functions/',
+            items: [
+              { text: 'import', link: '/reference/functions/import' },
             ],
           },
           {
@@ -52,7 +58,6 @@ export default defineConfig({
             items: [
               { text: 'Div', link: '/reference/elements/div' },
               { text: 'Input', link: '/reference/elements/input' },
-              { text: 'Window', link: '/reference/elements/window' },
             ],
           },
         ],

@@ -3,8 +3,7 @@
 ## Queries
 
 - [`CREATE`](./create)
-- [`IMPORT`](./import)
-- [`REGISTER VIEW`](./register-view)
+- [`DEFINE`](./define)
 - [`REPLACE`](./replace)
 - [`SELECT`](./select)
 - [`SUBSCRIBE`](./subscribe)

@@ -2,4 +2,3 @@
 
 - [Div](./div)
 - [Input](./input)
-- [Window](./window)
